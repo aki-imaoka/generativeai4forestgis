@@ -4,6 +4,12 @@
 
 公開サイト: https://yokayoka.github.io/generativeai4forestgis/
 
+スマートフォンで公開サイトを開く場合は、次のQRコードを読み取ってください。
+
+<a href="https://yokayoka.github.io/generativeai4forestgis/">
+  <img src="assets/public-site-qr.png" alt="WebGIS公開サイト（参加者ページ一覧）を開くQRコード" width="240" height="240">
+</a>
+
 ## 構成
 
 - `index.html`: 参加者ページの一覧
